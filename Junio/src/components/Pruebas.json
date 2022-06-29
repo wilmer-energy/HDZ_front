@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Myriam",
+                "last": "Husemann"
+            },
+            "location": {
+                "street": {
+                    "number": 5874,
+                    "name": "Birkenweg"
+                },
+                "city": "Herrnhut",
+                "state": "Bayern",
+                "country": "Germany",
+                "postcode": 13043,
+                "coordinates": {
+                    "latitude": "-47.2007",
+                    "longitude": "22.5630"
+                },
+                "timezone": {
+                    "offset": "-9:00",
+                    "description": "Alaska"
+                }
+            },
+            "email": "myriam.husemann@example.com",
+            "login": {
+                "uuid": "b5429261-0651-44a2-8522-bc8c4277155a",
+                "username": "bigpanda812",
+                "password": "bombers",
+                "salt": "AvhqOkXt",
+                "md5": "c13e2a6dfd52ecc7bb8d830e9397b9b4",
+                "sha1": "acc9f9cf556bc13e248bad1f5e9f7b2678963385",
+                "sha256": "6bc25b0f307984c989284ecad6c104613a21720b95bee6120873f4e30899d68e"
+            },
+            "dob": {
+                "date": "1972-02-19T12:41:21.131Z",
+                "age": 50
+            },
+            "registered": {
+                "date": "2015-07-30T21:49:33.357Z",
+                "age": 7
+            },
+            "phone": "0144-1336348",
+            "cell": "0173-5679109",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/29.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/29.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/29.jpg"
+            },
+            "nat": "DE"
+        }
+    ],
+    "info": {
+        "seed": "84a0f8f7e490d779",
+        "results": 1,
+        "page": 1,
+        "version": "1.3"
+    }
+}
