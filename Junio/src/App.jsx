@@ -5,6 +5,7 @@ import Contador from './components/Contador'
 import BreakingBadUsers from './components/BreakingBadUsers'
 import RandomUsers from './components/RandomUsers'
 import RandomEmojis from './components/RandomEmojis'
+import Pokemon from './components/Pokemon'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -19,6 +20,8 @@ function App() {
     <RandomUsers/>
     <hr />
     <RandomEmojis/>
+    <hr />
+    <Pokemon/>
     </div>
    
     

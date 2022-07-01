@@ -6,3 +6,35 @@
 body{
   text-align: center;
 }
+.card {
+  width: 350px;
+  margin: 0 auto;
+  padding: 15px;
+  box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
+  border-radius: 8px;
+  background: #fff;
+}
+
+.card img {
+  width: 100%;
+}
+
+.card ul {
+  list-style: none;
+  text-align: left;
+}
+
+.card ul li {
+  margin-bottom: 15px;
+}
+
+.card ul li i {
+  margin-right: 10px;
+}
+
+.card button {
+  background: greenyellow;
+  font-size: 18px;
+  border: none;
+  cursor: pointer;
+}
